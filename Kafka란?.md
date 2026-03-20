@@ -4,6 +4,7 @@
 - Pub-Sub 모델을 따름.
     - Pub-Sub 모델에서 Borker의 역할을 맡음.
 - 주로 기업에서 대규모 데이터 처리 및 이벤트 기반 시스템을 구축하는데 사용함.
+- 이벤트 브로커임.
 
 ### Kafka를 사용하는 이유
 - 높은 처리량 : 짧은 시간에 대량의 데이터를 지연 없이 처리할 수 있어서 빅데이터 시스템에서 필수적임.
@@ -14,4 +15,4 @@
 참고 자료
 - https://velog.io/@haron/PUBSUB-PUBSUB%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90  
 - https://medium.com/@0joon/10%EB%B6%84%EC%95%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-kafka-bed877e7a3bc
-
+- https://velog.io/@holicme7/Apache-Kafka-%EC%B9%B4%ED%94%84%EC%B9%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?source=post_page-----bed877e7a3bc--------------------------------------- 
