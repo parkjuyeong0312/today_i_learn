@@ -12,7 +12,26 @@
 - 영속성 : 메세지를 메모리가 아닌 디스크에 저장함. 소비자가 데이터를 가져간 후에도 데이터가 사라지지 않고 설정된 기간 동안 보관됨.(장애 복구에 유리함)
 - 분산 처리 : 데이터를 여러 서버에 나누어 저장하므로, 한 대의 서버가 고장나도 시스템이 안멈춤.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 참고 자료
 - https://velog.io/@haron/PUBSUB-PUBSUB%EC%9D%84-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90  
 - https://medium.com/@0joon/10%EB%B6%84%EC%95%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-kafka-bed877e7a3bc
 - https://velog.io/@holicme7/Apache-Kafka-%EC%B9%B4%ED%94%84%EC%B9%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80?source=post_page-----bed877e7a3bc--------------------------------------- 
+- https://medium.com/@greg.shiny82/apache-kafka-%EA%B0%84%EB%9E%B5%ED%95%98%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-343ad84a959b 
